@@ -24,7 +24,7 @@ li{
     gap: 100px;
     list-style: none;
     margin-left: 100px;
-
+    cursor: pointer;
  }
 .logo {
 margin-top: 0px;
