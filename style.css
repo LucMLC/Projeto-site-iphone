@@ -134,3 +134,35 @@ background-color: #b50012;
         right: 0px;
         clip-path: circle(600px at right 1000px);
     }
+
+    @media screen and (max-width: 700px) {
+        .caixa-roxa{
+            display:none;
+            
+        }
+        .circulo{
+            display:none;
+
+        }
+
+        .caixa-azul{
+            display:block
+        }
+
+        h1{
+            text-align: center;
+        }
+.iphone{
+    margin-top: 15px;
+}
+
+.tiulo-secundario{
+    font-size: 25px;
+    margin-top: 3px;
+}
+
+.botao{
+    display: flex;
+    margin: 0 auto 0 auto;
+}
+    }
